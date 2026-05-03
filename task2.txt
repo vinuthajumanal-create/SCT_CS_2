@@ -1,0 +1,6 @@
+=== Image Encryption Tool ===
+Enter 'encrypt' or 'decrypt': encrypt
+Enter input image path: butter.jpg
+Enter output image path: encryptted.jpg
+Enter key (0-255): 150
+🔐 Image Encrypted Successfully!
